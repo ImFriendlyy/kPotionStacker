@@ -1,0 +1,13 @@
+name: kPotionStacker
+version: '1.0'
+main: vv0ta3fa9.plugin.kPotionStacker.kPotionStacker
+api-version: '1.16'
+load: STARTUP
+authors: [ vv0t3afa9 ]
+website: t.me/kapybarkaaa
+
+commands:
+  kpotionstacker:
+    description: Объединяет одинаковые зелья в один стак
+    usage: /kpotionstacker
+    aliases: [kps, potionstacker, potionstack]
